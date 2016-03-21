@@ -6,7 +6,7 @@
   },
   "name": "osia-beautify",
   "author": "Sean Wilson",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Beautifer plugin for Osia",
   "main": "lib",
   "repository": {
